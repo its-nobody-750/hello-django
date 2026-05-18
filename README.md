@@ -42,7 +42,7 @@ A minimal Django application with a single `GET /` endpoint that returns `{"mess
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/django-hello-world.git
+git clone https://github.com/its-nobody-750/django-hello-world.git
 cd django-hello-world
 
 # Create and activate virtual environment
